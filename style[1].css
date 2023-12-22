@@ -13,16 +13,12 @@ html {
   text-align: center;
 }
 
-.mx-auto{
-  margin:auto;
-}
-.flex{
+.container{
   display:flex;
   justify-content: center;
   align-items: center;
-}
-.flex-col{
   flex-direction:column;
+  margin:auto;
 }
 .row{
   margin:12px 0;
